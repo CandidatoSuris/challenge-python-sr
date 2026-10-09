@@ -1,0 +1,103 @@
+infringement_id,source,url,raw_text,detected_at
+INF-0001,CRAWLER,https://zippy-mirror.example/f/3586704/ignacio_ferreyra___vienot_salvaje_flac,ignacio.ferreyra.-.vienot.salvaje.flac,2026-09-02T10:01:00Z
+INF-0002,CRAWLER,https://zippy-mirror.example/f/1349269/12__Maya_Ferreyra___Velvet_Echoes__Audio,12. Maya Ferreyra - Velvet Echoes (Audio Oficial).wav,2026-09-03T10:02:00Z
+INF-0003,MEMBER,https://filecloud.example/f/3132697/Ines_Garay___Slow_Parade__HD___Free_Down,Inés_Garay_-_Slow_Parade_[HD]_[Free_Download].m4a,2026-09-04T10:03:00Z
+INF-0004,CRAWLER,https://filecloud.example/f/8258461/Bruma___Crysatl_Skies__Visualizer__HQ_mp,Bruma - Crysatl Skies (Visualizer) HQ.mp3,2026-09-05T10:04:00Z
+INF-0005,CRAWLER,https://filecloud.example/f/9259408/Ethan_Ibanez___Lluvia_del_Sur__Official_,Ethan Ibanez - Lluvia del Sur (Official Video) [HD].flac,2026-09-06T10:05:00Z
+INF-0006,MEMBER,https://filecloud.example/f/1688742/10__Tormenta_de_Neon___Camila_Ferreyra__,10. Tormenta de Neon - Camila Ferreyra [HD] [Free Download].flac,2026-09-07T10:06:00Z
+INF-0007,UPLOAD,https://mp3-descargas.example/f/6165086/Valentina_Rios___Cielo_de_Carton__Remix_,Valentina Ríos - Cielo de Cartón (Remix).mp3,2026-09-08T10:07:00Z
+INF-0008,UPLOAD,https://filecloud.example/f/9519778/tadeo_mar___static_love_flac,tadeo mar - static love.flac,2026-09-09T10:08:00Z
+INF-0009,UPLOAD,https://zippy-mirror.example/f/5072500/Liam_Molina___Camino_de_Neon_mp3,Liam Molina - Camino de Neon.mp3,2026-09-10T10:09:00Z
+INF-0010,MEMBER,https://zippy-mirror.example/f/2175820/Crystal_Skies___Ethan_Sato__www_descarga,Crystal Skies - Ethan Sato [www.descargas-mp3.example].wav,2026-09-11T10:10:00Z
+INF-0011,CRAWLER,https://rapidfile.xyz/f/8423641/North_Avenue___Viento_Salvaje__Audio_Ofi,North Avenue - Viento Salvaje (Audio Oficial).m4a,2026-09-12T10:11:00Z
+INF-0012,UPLOAD,https://mp3-descargas.example/f/5739678/Dario_Vence___Agua_Clara_m4a,Dario Vence - Agua Clara.m4a,2026-09-13T10:12:00Z
+INF-0013,MEMBER,https://zippy-mirror.example/f/1366571/kaia_lund___agua_clara__hd__wav,kaia lund - agua clara [hd].wav,2026-09-14T10:13:00Z
+INF-0014,UPLOAD,https://mp3-descargas.example/f/4895269/Los_Cometas_del_Valle___Midnight_Fires_3,Los Cometas del Valle - Midnight Fires 320kbps (Visualizer).wav,2026-09-15T10:14:00Z
+INF-0015,MEMBER,https://mp3-descargas.example/f/4446230/ARF111500021_438.mp3,track17.mp3,2026-09-16T10:15:00Z
+INF-0016,UPLOAD,https://filecloud.example/f/9697809/The_Lanterns___Golden_Coast_mp3,The Lanterns - Golden Coast.mp3,2026-09-17T10:16:00Z
+INF-0017,CRAWLER,https://zippy-mirror.example/f/5264242/Camila_Hughes___Fuego_Lejana__Official_V,Camila Hughes - Fuego Lejana (Official Video).wav,2026-09-18T10:17:00Z
+INF-0018,UPLOAD,https://mega-dl.example/f/1817488/Tadeo_Mar___Domingo_Gris_mp3,Tadeo Mar - Domingo Gris.mp3,2026-09-19T10:18:00Z
+INF-0019,CRAWLER,https://rapidfile.xyz/f/1839381/valentina_rios_ft_tomas_ledesma___cielo_,valentina rios ft tomas ledesma - cielo de carton (official video) [HD].mp3,2026-09-20T10:19:00Z
+INF-0020,MEMBER,https://filecloud.example/f/7897783/Gonzalo_Novak___Invierno_Lejana_m4a,Gonzalo Novak - Invierno Lejana.m4a,2026-09-21T10:20:00Z
+INF-0021,CRAWLER,https://rapidfile.xyz/f/2182013/La_Brujula___Velvet_Shadows__HD__m4a,La Brújula - Velvet Shadows [HD].m4a,2026-09-22T10:21:00Z
+INF-0022,CRAWLER,https://mega-dl.example/f/8539481/08__La_Brujula___Ciudad_de_Cristal__Visu,08. La Brujula - Ciudad de Cristal (Visualizer) HQ.m4a,2026-09-23T10:22:00Z
+INF-0023,MEMBER,https://rapidfile.xyz/f/8580177/Polar_Static___Ventana_Abierta_320kbps_w,Polar Static - Ventana Abierta 320kbps.wav,2026-09-24T10:23:00Z
+INF-0024,MEMBER,https://mega-dl.example/f/5700515/The_Lanterns___Golden_Coast__Radio_Edit_,The Lanterns - Golden Coast (Radio Edit).mp3,2026-09-25T10:24:00Z
+INF-0025,MEMBER,https://filecloud.example/f/6348564/June_Arlow___Satellite_Bloom__Official_V,June Arlow - Satellite Bloom (Official Video).flac,2026-09-26T10:25:00Z
+INF-0026,MEMBER,https://rapidfile.xyz/f/3041055/The_Lanterns___Golden_Coast__Live_at_Bri,The Lanterns - Golden Coast (Live at Brixton).mp3,2026-09-27T10:26:00Z
+INF-0027,CRAWLER,https://mega-dl.example/f/3099316/Ethan_Luna___Luna_Rota_wav,Ethan.Luna.-.Luna.Rota.wav,2026-09-28T10:27:00Z
+INF-0028,CRAWLER,https://rapidfile.xyz/f/5112062/02__Sofia_Carter___Electric_Echoes_wav,02. Sofía Carter - Electric Echoes.wav,2026-09-01T10:28:00Z
+INF-0029,MEMBER,https://rapidfile.xyz/f/6032932/Los_Arrayanes___Track_3_mp3,Los Arrayanes - Track 3.mp3,2026-09-02T10:29:00Z
+INF-0030,MEMBER,https://zippy-mirror.example/f/7564405/Sebastian_Walsh___Broken_Bridges__Offici,Sebastian Walsh - Broken Bridges (Official Video).m4a,2026-09-03T10:30:00Z
+INF-0031,CRAWLER,https://zippy-mirror.example/f/3957418/Elena_Reyes___Silver_Roads__Visualizer__,Elena Reyes - Silver Roads (Visualizer) [HD].wav,2026-09-04T10:31:00Z
+INF-0032,CRAWLER,https://mega-dl.example/f/5514605/Noah_Carter___Puerto_de_Neon_flac,Noah Carter - Puerto de Neón.flac,2026-09-05T10:32:00Z
+INF-0033,CRAWLER,https://filecloud.example/f/2186600/05__glass_herons___espejo_en_llamas_mp3,05. glass herons - espejo en llamas.mp3,2026-09-06T10:33:00Z
+INF-0034,CRAWLER,https://mp3-descargas.example/f/5818675/13__facundo_hughes___velvet_signals__hd_,13. facundo hughes - velvet signals [hd].flac,2026-09-07T10:34:00Z
+INF-0035,CRAWLER,https://mega-dl.example/f/1050264/03__Neon_Prayer___Kaia_Lund_flac,03. Neon Prayer - Kaia Lund.flac,2026-09-08T10:35:00Z
+INF-0036,MEMBER,https://zippy-mirror.example/f/6969786/joaquin_walsh___verano_de_neon_wav,joaquin walsh - verano de neon.wav,2026-09-09T10:36:00Z
+INF-0037,MEMBER,https://zippy-mirror.example/f/1975805/ARF312200023_850.mp3,track02.mp3,2026-09-10T10:37:00Z
+INF-0038,UPLOAD,https://rapidfile.xyz/f/8235350/Ignacio_Quintana___Hollow_Signals_mp3,Ignacio Quintana - Hollow Signals.mp3,2026-09-11T10:38:00Z
+INF-0039,MEMBER,https://mega-dl.example/f/1975801/North_Avenue_Espejo_en_Llamas.exe,North Avenue - Espejo en Llamas.exe,2026-09-12T10:39:00Z
+INF-0040,UPLOAD,https://filecloud.example/f/9283426/Los_Arrayanes___Noche_de_Polvora__Offici,Los Arrayanes - Noche de Pólvora (Official Video) [HD].mp3,2026-09-13T10:40:00Z
+INF-0041,UPLOAD,https://filecloud.example/f/6196941/Maya_Ferreyra___Puetro_Eterna__Visualize,Maya_Ferreyra_-_Puetro_Eterna_(Visualizer).flac,2026-09-14T10:41:00Z
+INF-0042,MEMBER,https://filecloud.example/f/8790745/Dario_Vence___Ultraviolet_Kids__Audio_Of,Dario Vence - Ultraviolet Kids (Audio Oficial) (Official Video).flac,2026-09-15T10:42:00Z
+INF-0043,MEMBER,https://www.youtube.com/watch?v=dQw4w9WgXcQ,stream oficial,2026-09-16T10:43:00Z
+INF-0044,UPLOAD,https://mp3-descargas.example/f/6555564/Bruma___Desierto_de_Abril_HQ_mp3,Bruma - Desierto de Abril HQ.mp3,2026-09-17T10:44:00Z
+INF-0045,MEMBER,https://rapidfile.xyz/f/9629499/13__silver_rivers___static_orchard_m4a,13..silver.rivers.-.static.orchard.m4a,2026-09-18T10:45:00Z
+INF-0046,UPLOAD,https://zippy-mirror.example/f/6157119/the_quiet_fleet___cuarto_menguante_m4a,the quiet fleet - cuarto menguante.m4a,2026-09-19T10:46:00Z
+INF-0047,UPLOAD,https://www.deezer.com/track/3135556,stream oficial,2026-09-20T10:47:00Z
+INF-0048,UPLOAD,https://zippy-mirror.example/f/1182310/Velvte_Echoes___Chloe_Quintana_wav,Velvte Echoes - Chloe Quintana.wav,2026-09-21T10:48:00Z
+INF-0049,CRAWLER,https://mega-dl.example/f/9789506/Sofia_Carter___Luan_Rota_HQ__Letra__flac,Sofia Carter - Luan Rota HQ (Letra).flac,2026-09-22T10:49:00Z
+INF-0050,CRAWLER,https://mega-dl.example/f/5302843/Los_Arrayanes_del_Sur___Noches_de_Polvor,Los Arrayanes del Sur - Noches de Polvora.mp3,2026-09-23T10:50:00Z
+INF-0051,MEMBER,https://rapidfile.xyz/f/9799810/Ignacio_Quintana___Velvet_Bridges__Free_,Ignacio Quintana - Velvet Bridges [Free Download].flac,2026-09-24T10:51:00Z
+INF-0052,MEMBER,https://mega-dl.example/f/3899979/Elena_Bennett___Verano_Eterna__Letra__m4,Elena_Bennett_-_Verano_Eterna_(Letra).m4a,2026-09-25T10:52:00Z
+INF-0053,CRAWLER,https://zippy-mirror.example/f/9072398/ARF711800077_207.mp3,track17.mp3,2026-09-26T10:53:00Z
+INF-0054,UPLOAD,https://mega-dl.example/f/5367109/ARF412100064_913.mp3,track11.mp3,2026-09-27T10:54:00Z
+INF-0055,CRAWLER,https://mp3-descargas.example/f/9545737/Valentina_Rios___Agua_Clara_320kbps_mp3,Valentina Ríos - Agua Clara 320kbps.mp3,2026-09-28T10:55:00Z
+INF-0056,UPLOAD,https://mega-dl.example/f/4040093/Liam_Molina_Velvet_Lines.apk,Liam Molina - Velvet Lines.apk,2026-09-01T10:56:00Z
+INF-0057,CRAWLER,https://zippy-mirror.example/f/6030886/The_Lanterns___Ruta_Cuarenta_wav,The Lanterns - Ruta Cuarenta.wav,2026-09-02T10:57:00Z
+INF-0058,CRAWLER,https://mp3-descargas.example/f/8894503/Joaquin_Walsh_Silver_Hearts.apk,Joaquín Walsh - Silver Hearts.apk,2026-09-03T10:58:00Z
+INF-0059,MEMBER,https://mega-dl.example/f/4999263/chloe_benitez___camino_de_abril__letra__,chloe benítez - camino de abril (letra).flac,2026-09-04T10:59:00Z
+INF-0060,CRAWLER,https://filecloud.example/f/2578039/USF322100083_535.mp3,track04.mp3,2026-09-05T10:00:00Z
+INF-0061,MEMBER,https://filecloud.example/f/9487400/01__liam_okafor___crystal_lines_hq__letr,01._liam_okafor_-_crystal_lines_hq_(letra).m4a,2026-09-06T10:01:00Z
+INF-0062,CRAWLER,https://mp3-descargas.example/f/4753299/10__Ramiro_Novak___Crsytal_Lines__www_de,10. Ramiro Novak - Crsytal Lines [www.descargas-mp3.example].wav,2026-09-07T10:02:00Z
+INF-0063,CRAWLER,https://filecloud.example/f/5676705/Corazon_de_Hierro___June_Arlow__www_desc,Corazón.de.Hierro.-.June.Arlow.[www.descargas-mp3.example].(Official.Video).mp3,2026-09-08T10:03:00Z
+INF-0064,CRAWLER,https://rapidfile.xyz/f/4795811/Valentina_Rios___Cielo_de_Carton__Remast,Valentina Rios - Cielo de Carton (Remastered 2025).flac,2026-09-09T10:04:00Z
+INF-0065,CRAWLER,https://filecloud.example/f/3339434/Melody_Hart___Golden_Hours_mp3,Melody Hart - Golden Hours.mp3,2026-09-10T10:05:00Z
+INF-0066,CRAWLER,https://filecloud.example/f/4695458/Volver_mp3,Volver.mp3,2026-09-11T10:06:00Z
+INF-0067,MEMBER,https://mega-dl.example/f/3734203/Rubi_Sanz___Cuarto_Menguante_wav,Rubí.Sanz.-.Cuarto.Menguante.wav,2026-09-12T10:07:00Z
+INF-0068,CRAWLER,https://mega-dl.example/f/9583757/Chloe_Quintana___Ciudad_del_Sur__Letra__,Chloe Quintana - Ciudad del Sur (Letra) (Official Video).m4a,2026-09-13T10:08:00Z
+INF-0069,CRAWLER,https://rapidfile.xyz/f/7828309/Los_Peregrinos___Lluvia_de_Cristal__www_,Los Peregrinos - Lluvia de Cristal [www.descargas-mp3.example] [HD].m4a,2026-09-14T10:09:00Z
+INF-0070,CRAWLER,https://zippy-mirror.example/f/2527359/elena_paz___lluvia_de_cirstal_hq_mp3,elena paz - lluvia de cirstal hq.mp3,2026-09-15T10:10:00Z
+INF-0071,UPLOAD,https://rapidfile.xyz/f/6902665/June_Arlow___Agua_Clara__HD___Lyric_Vide,June Arlow - Agua Clara [HD] (Lyric Video).flac,2026-09-16T10:11:00Z
+INF-0072,UPLOAD,https://rapidfile.xyz/f/9604020/04__Noah_Ibanez___Crystal_Rivers_320kbps,04. Noah Ibáñez - Crystal Rivers 320kbps.mp3,2026-09-17T10:12:00Z
+INF-0073,MEMBER,https://mega-dl.example/f/4355010/Tadeo_Mar___Satellite_Bloom_m4a,Tadeo Mar - Satellite Bloom.m4a,2026-09-18T10:13:00Z
+INF-0074,CRAWLER,https://filecloud.example/f/3403823/林小雨___夜空中的約定__MV__320k_mp3,林小雨 - 夜空中的約定 (MV) 320k.mp3,2026-09-19T10:14:00Z
+INF-0075,CRAWLER,https://zippy-mirror.example/f/8132373/June_Arlow___Last_Ferry__Lyric_Video___w,June Arlow - Last Ferry (Lyric Video) [www.descargas-mp3.example].flac,2026-09-20T10:15:00Z
+INF-0076,UPLOAD,https://mp3-descargas.example/f/4256770/04__liam_okafor___camino_perdida_flac,04. liam okafor - camino perdida.flac,2026-09-21T10:16:00Z
+INF-0077,CRAWLER,https://filecloud.example/f/1071079/Carmen_Duarte___Volver__Letra__mp3,Carmen Duarte - Volver (Letra).mp3,2026-09-22T10:17:00Z
+INF-0078,CRAWLER,https://filecloud.example/f/2298139/Lin_Xiaoyu___Ye_Kong_Zhong_De_Yue_Ding_m,Lin Xiaoyu - Ye Kong Zhong De Yue Ding.mp3,2026-09-23T10:18:00Z
+INF-0079,CRAWLER,https://filecloud.example/f/9262385/June_Arlow___Ruta_Cuarenta_320kbps_wav,June Arlow - Ruta Cuarenta 320kbps.wav,2026-09-24T10:19:00Z
+INF-0080,CRAWLER,https://mp3-descargas.example/f/1244077/elena_reyes___golden_rivers__free_downlo,elena.reyes.-.golden.rivers.[free.download].mp3,2026-09-25T10:20:00Z
+INF-0081,CRAWLER,https://rapidfile.xyz/f/1390631/Los_Cometas_del_Valle___Jardin_en_Llamas,Los_Cometas_del_Valle_-_Jardín_en_Llamas_(Letra).mp3,2026-09-26T10:21:00Z
+INF-0082,MEMBER,https://mp3-descargas.example/f/2749444/Isla_Carter___Ciudad_en_Llamas_mp3,Isla Carter - Ciudad en Llamas.mp3,2026-09-27T10:22:00Z
+INF-0083,MEMBER,https://rapidfile.xyz/f/9777801/04__tormenta_de_sal___sofia_carter__visu,04. tormenta de sal - sofía carter (visualizer) (audio oficial).mp3,2026-09-28T10:23:00Z
+INF-0084,MEMBER,https://rapidfile.xyz/f/2664675/02__ventana_abierta___the_quiet_fleet__v,02. ventana abierta - the quiet fleet (visualizer).wav,2026-09-01T10:24:00Z
+INF-0085,UPLOAD,https://rapidfile.xyz/f/3746401/static_orchard___puerto_lejana_wav,static orchard - puerto lejana.wav,2026-09-02T10:25:00Z
+INF-0086,MEMBER,https://rapidfile.xyz/f/9394840/Broken_Echoes___Owen_Herrera_HQ_mp3,Broken Echoes - Owen Herrera HQ.mp3,2026-09-03T10:26:00Z
+INF-0087,CRAWLER,https://mp3-descargas.example/f/6530501/mar_rota___los_peregrinos__www_descargas,mar rota - los peregrinos [www.descargas-mp3.example] (letra).m4a,2026-09-04T10:27:00Z
+INF-0088,CRAWLER,rapidfile.xyz//f/??,Los Arrayanes - Noche de Pólvora.mp3,2026-09-05T10:28:00Z
+INF-0089,CRAWLER,https://filecloud.example/f/8201459/14__glass_herons___hollow_ilghts__audio_,14. glass herons - hollow ilghts (audio oficial) (official video).mp3,2026-09-06T10:29:00Z
+INF-0090,CRAWLER,https://mp3-descargas.example/f/3764854/11__ignacio_ferreyra___espejo_en_llamas_,11. ignacio ferreyra - espejo en llamas.flac,2026-09-07T10:30:00Z
+INF-0091,CRAWLER,https://filecloud.example/f/2986541/Los_Arrayanes___Noche_de_Polvora__En_Viv,Los Arrayanes - Noche de Polvora (En Vivo en el Luna Park).mp3,2026-09-08T10:31:00Z
+INF-0092,MEMBER,https://music.apple.com/ar/album/x/1440857781,stream oficial,2026-09-09T10:32:00Z
+INF-0093,CRAWLER,https://mp3-descargas.example/f/7536294/owen_herrera___invierno_lejana_wav,owen herrera - invierno lejana.wav,2026-09-10T10:33:00Z
+INF-0094,CRAWLER,https://mega-dl.example/f/5117562/08__gonzalo_novak___jardin_en_lalmas_m4a,08. gonzalo novak - jardin en lalmas.m4a,2026-09-11T10:34:00Z
+INF-0095,MEMBER,https://zippy-mirror.example/f/5932897/Owen_Herrera___Golden_Rivers_320kbps__HD,Owen_Herrera_-_Golden_Rivers_320kbps_[HD].flac,2026-09-12T10:35:00Z
+INF-0096,CRAWLER,https://mp3-descargas.example/f/8731821/Ethan_Luna___Quiet_Signals_320kbps__Offi,Ethan Luna - Quiet Signals 320kbps (Official Video).mp3,2026-09-13T10:36:00Z
+INF-0097,CRAWLER,https://mega-dl.example/f/9701977/Glass_Herons___Silencio_de_Sal_HQ__Offic,Glass Herons - Silencio de Sal HQ (Official Video).wav,2026-09-14T10:37:00Z
+INF-0098,CRAWLER,https://rapidfile.xyz/f/3897226/Ramiro_Sato___Mar_Infinita_m4a,Ramiro Sato - Mar Infinita.m4a,2026-09-15T10:38:00Z
+INF-0099,MEMBER,https://filecloud.example/f/8628627/gonzalo_novak___lluvia_lejana__hd__320kb,gonzalo_novak_-_lluvia_lejana_[hd]_320kbps.m4a,2026-09-16T10:39:00Z
+INF-0100,MEMBER,https://zippy-mirror.example/f/2219587/tadeo_mar___marea_baja__letra___lyric_vi,tadeo mar - marea baja (letra) (lyric video).mp3,2026-09-17T10:40:00Z
+INF-0101,MEMBER,https://zippy-mirror.example/f/4436338/Ethan_Ibanez___Ciel_osin_Nombre_320kbps_,Ethan_Ibanez_-_Ciel_osin_Nombre_320kbps_HQ.wav,2026-09-18T10:41:00Z
+INF-0102,UPLOAD,https://zippy-mirror.example/f/5043146/Ignacio_Ferreyra___Crystal_Rivers_320kbp,Ignacio Ferreyra - Crystal Rivers 320kbps.mp3,2026-09-19T10:42:00Z

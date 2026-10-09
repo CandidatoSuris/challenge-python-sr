@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/43" AvsVersionId="8" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>PAC20260904010</MessageThreadId>
+    <MessageId>PAC20260904010</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000PACIFIC</PartyId>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-04T09:40:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <PartyList>
+    <Party>
+      <PartyReference>P1</PartyReference>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P2</PartyReference>
+      <PartyName>
+        <FullName>Liam Okafor</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P3</PartyReference>
+      <PartyName>
+        <FullName>Static Orchard</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P4</PartyReference>
+      <PartyName>
+        <FullName>Ignacio Ferreyra</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P5</PartyReference>
+      <PartyName>
+        <FullName>Glass Herons</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P6</PartyReference>
+      <PartyName>
+        <FullName>Elena Paz</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P7</PartyReference>
+      <PartyName>
+        <FullName>Los Peregrinos</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P8</PartyReference>
+      <PartyName>
+        <FullName>Chloe Benítez</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P9</PartyReference>
+      <PartyName>
+        <FullName>Gonzalo Novak</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P10</PartyReference>
+      <PartyName>
+        <FullName>Noah Carter</FullName>
+      </PartyName>
+    </Party>
+  </PartyList>
+  <ResourceList>
+    <SoundRecording>
+      <ResourceReference>A1</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF022400080</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Desierto de Abril</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Desierto de Abril</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Liam Okafor</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P2</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M54S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A2</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF122200081</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Silver Rivers</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Silver Rivers</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Static Orchard</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M31S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A3</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF222500082</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2025</Year>
+          <PLineText>℗ 2025 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Jardín de Abril</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Jardín de Abril</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Ignacio Ferreyra</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P4</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M20S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A4</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF322100083</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Desierto de Papel</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Desierto de Papel</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Glass Herons</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P5</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M54S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A5</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF422400084</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Luna de Sal</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Luna de Sal</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Static Orchard</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M18S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A6</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF522000085</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2020</Year>
+          <PLineText>℗ 2020 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Lluvia de Cristal</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Lluvia de Cristal</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Elena Paz</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P6</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M3S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A7</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF621500086</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2015</Year>
+          <PLineText>℗ 2015 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Tormenta de Neón</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Tormenta de Neón</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Peregrinos</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P7</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M49S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A8</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF722100087</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Golden Hearts</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Golden Hearts</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Chloe Benítez</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P8</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M35S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A9</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF821700088</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2017</Year>
+          <PLineText>℗ 2017 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Invierno Lejana</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Invierno Lejana</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Gonzalo Novak</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P9</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M4S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A10</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF921900089</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Silver Roads</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Silver Roads</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Noah Carter</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P10</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M19S</Duration>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseId>
+        <GRid>A10301A00000000010</GRid>
+        <ICPN>088800000010</ICPN>
+      </ReleaseId>
+      <DisplayTitleText>Pacific Vol. 10</DisplayTitleText>
+      <DisplayArtistName>Liam Okafor</DisplayArtistName>
+      <ReleaseLabelReference>P1</ReleaseLabelReference>
+      <ResourceGroup>
+        <ResourceReference>A1</ResourceReference>
+        <ResourceReference>A2</ResourceReference>
+        <ResourceReference>A3</ResourceReference>
+        <ResourceReference>A4</ResourceReference>
+        <ResourceReference>A5</ResourceReference>
+        <ResourceReference>A6</ResourceReference>
+        <ResourceReference>A7</ResourceReference>
+        <ResourceReference>A8</ResourceReference>
+        <ResourceReference>A9</ResourceReference>
+        <ResourceReference>A10</ResourceReference>
+      </ResourceGroup>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>

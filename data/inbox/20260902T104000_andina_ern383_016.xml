@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/383" MessageSchemaVersionId="ern/383" LanguageAndScriptCode="es">
+  <MessageHeader>
+    <MessageThreadId>AND20260902016</MessageThreadId>
+    <MessageId>AND20260902016</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000ANDINA</PartyId>
+      <PartyName>
+        <FullName>Andina Records</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-02T10:40:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF011600060</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Silencio de Sal</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M16S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Silencio de Sal</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Chloe Benítez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF112300061</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Espejo Eterna</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M3S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Espejo Eterna</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Elena Paz</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2023</Year>
+          <PLineText>℗ 2023 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF212400062</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Fuego sin Nombre</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M17S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Fuego sin Nombre</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Bruma</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF311800063</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Broken Skies</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M18S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Broken Skies</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Martín Sosa</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2018</Year>
+          <PLineText>℗ 2018 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF412100064</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Crystal Rivers</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M14S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Crystal Rivers</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Noah Ibáñez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF512000065</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A6</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Silencio de Sal</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M0S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Silencio de Sal</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Glass Herons</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2020</Year>
+          <PLineText>℗ 2020 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF611800066</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A7</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Espejo Lejana</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M10S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Espejo Lejana</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Liam Okafor</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2018</Year>
+          <PLineText>℗ 2018 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF712100067</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A8</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Espejo en Llamas</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M44S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Espejo en Llamas</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Elena Bennett</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF812200068</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A9</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Verano de Neón</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M20S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Verano de Neón</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Joaquín Walsh</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF912000069</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A10</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Silencio Eterna</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M18S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Silencio Eterna</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Paula Walsh</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2020</Year>
+          <PLineText>℗ 2020 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <GRid>A10302B00000000016</GRid>
+        <ICPN IsEan="true">779000100016</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Compilado Andina 16</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Chloe Benítez</DisplayArtistName>
+        <LabelName>Andina Records</LabelName>
+      </ReleaseDetailsByTerritory>
+    </Release>
+  </ReleaseList>
+</ernm:NewReleaseMessage>

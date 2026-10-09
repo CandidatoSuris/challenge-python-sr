@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/383" MessageSchemaVersionId="ern/383" LanguageAndScriptCode="es">
+  <MessageHeader>
+    <MessageThreadId>AND20260901001</MessageThreadId>
+    <MessageId>AND20260901001</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000ANDINA</PartyId>
+      <PartyName>
+        <FullName>Andina Records</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-01T09:00:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARAN12400101</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Noche de Pólvora</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M41S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Noche de Pólvora</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Los Arrayanes</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARAN12400199</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Noche de Pólvora (En Vivo)</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M24S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Noche de Pólvora (En Vivo)</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Los Arrayanes</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Interludio</TitleText>
+      </ReferenceTitle>
+      <Duration>PT0M48S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Interludio</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Los Arrayanes</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <GRid>A10302B00000000001</GRid>
+        <ICPN IsEan="true">779000100001</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Noche de Pólvora</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Los Arrayanes</DisplayArtistName>
+        <LabelName>Andina Records</LabelName>
+      </ReleaseDetailsByTerritory>
+    </Release>
+  </ReleaseList>
+</ernm:NewReleaseMessage>

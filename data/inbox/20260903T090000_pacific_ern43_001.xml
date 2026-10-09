@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/43" AvsVersionId="8" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>PAC20260903001</MessageThreadId>
+    <MessageId>PAC20260903001</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000PACIFIC</PartyId>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-03T09:00:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <PartyList>
+    <Party>
+      <PartyReference>P1</PartyReference>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P2</PartyReference>
+      <PartyName>
+        <FullName>Los Arrayanes</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P3</PartyReference>
+      <PartyName>
+        <FullName>Los Arrayanes del Sur</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P4</PartyReference>
+      <PartyName>
+        <FullName>Valentina Ríos</FullName>
+      </PartyName>
+    </Party>
+  </PartyList>
+  <ResourceList>
+    <SoundRecording>
+      <ResourceReference>A1</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>ARAN12400101</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Noche de Pólvora</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Noche de Pólvora</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Arrayanes</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P2</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M41S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A2</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>ARSU12300011</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2023</Year>
+          <PLineText>℗ 2023 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Noches de Pólvora</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Noches de Pólvora</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Arrayanes del Sur</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M27S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A3</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>ARVR12500088</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2025</Year>
+          <PLineText>℗ 2025 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Cielo de Cartón</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Cielo de Cartón</TitleText>
+        <SubTitle SubTitleType="VersionTitle">Remix</SubTitle>
+      </DisplayTitle>
+      <DisplayArtistName>Valentina Ríos</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P4</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M11S</Duration>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseId>
+        <GRid>A10301A00000000001</GRid>
+        <ICPN>088800000001</ICPN>
+      </ReleaseId>
+      <DisplayTitleText>Pólvora Sessions</DisplayTitleText>
+      <DisplayArtistName>Los Arrayanes</DisplayArtistName>
+      <ReleaseLabelReference>P1</ReleaseLabelReference>
+      <ResourceGroup>
+        <ResourceReference>A1</ResourceReference>
+        <ResourceReference>A2</ResourceReference>
+        <ResourceReference>A3</ResourceReference>
+      </ResourceGroup>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>

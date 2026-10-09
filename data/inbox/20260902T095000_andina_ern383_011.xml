@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/383" MessageSchemaVersionId="ern/383" LanguageAndScriptCode="es">
+  <MessageHeader>
+    <MessageThreadId>AND20260902011</MessageThreadId>
+    <MessageId>AND20260902011</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000ANDINA</PartyId>
+      <PartyName>
+        <FullName>Andina Records</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-02T09:50:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF012400010</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Broken Lines</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M2S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Broken Lines</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Liam Okafor</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF111900011</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Jardín Lejana</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M44S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Jardín Lejana</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Maya Ferreyra</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF212200012</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Tormenta de Neón</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M59S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Tormenta de Neón</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>La Brújula</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF311700013</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Desierto de Abril</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M43S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Desierto de Abril</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Noelia Molina</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2017</Year>
+          <PLineText>℗ 2017 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF411900014</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Río de Sal</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M3S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Río de Sal</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Joaquín Walsh</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF511600015</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A6</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Lluvia Salvaje</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M58S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Lluvia Salvaje</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Grace Sato</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF612400016</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A7</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Midnight Fires</TitleText>
+      </ReferenceTitle>
+      <Duration>PT2M34S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Midnight Fires</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Los Cometas del Valle</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF712200017</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A8</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Paper Echoes</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M50S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Paper Echoes</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Sofía Carter</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF812100018</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A9</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Paper Fires</TitleText>
+      </ReferenceTitle>
+      <Duration>PT2M51S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Paper Fires</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Los Cometas del Valle</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF912200019</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A10</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Viento Lejana</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M58S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Viento Lejana</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Owen Herrera</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <GRid>A10302B00000000011</GRid>
+        <ICPN IsEan="true">779000100011</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Compilado Andina 11</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Liam Okafor</DisplayArtistName>
+        <LabelName>Andina Records</LabelName>
+      </ReleaseDetailsByTerritory>
+    </Release>
+  </ReleaseList>
+</ernm:NewReleaseMessage>

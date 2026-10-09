@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/383" MessageSchemaVersionId="ern/383" LanguageAndScriptCode="es">
+  <MessageHeader>
+    <MessageThreadId>AND20260902012</MessageThreadId>
+    <MessageId>AND20260902012</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000ANDINA</PartyId>
+      <PartyName>
+        <FullName>Andina Records</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-02T10:00:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF012200020</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Luna Salvaje</TitleText>
+      </ReferenceTitle>
+      <Duration>PT2M33S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Luna Salvaje</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Maya Ferreyra</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF111500021</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Madrugada del Sur</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M18S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Madrugada del Sur</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Bruma</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2015</Year>
+          <PLineText>℗ 2015 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF212200022</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Espejo Lejana</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M4S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Espejo Lejana</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Sofía Molina</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF312200023</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Madrugada Infinita</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M26S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Madrugada Infinita</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Ethan Luna</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF412200024</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Camino Perdida</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M20S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Camino Perdida</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Liam Okafor</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF511600025</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A6</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Mar Infinita</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M29S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Mar Infinita</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Ramiro Sato</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF612200026</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A7</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Viento Salvaje</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M34S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Viento Salvaje</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Ignacio Ferreyra</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF712300027</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A8</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Quiet Fires</TitleText>
+      </ReferenceTitle>
+      <Duration>PT2M45S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Quiet Fires</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Los Peregrinos</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2023</Year>
+          <PLineText>℗ 2023 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF811900028</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A9</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Desierto en Llamas</TitleText>
+      </ReferenceTitle>
+      <Duration>PT2M53S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Desierto en Llamas</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Liam Okafor</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF911600029</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A10</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Puerto Lejana</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M33S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Puerto Lejana</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Owen Herrera</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <GRid>A10302B00000000012</GRid>
+        <ICPN IsEan="true">779000100012</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Compilado Andina 12</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Maya Ferreyra</DisplayArtistName>
+        <LabelName>Andina Records</LabelName>
+      </ReleaseDetailsByTerritory>
+    </Release>
+  </ReleaseList>
+</ernm:NewReleaseMessage>

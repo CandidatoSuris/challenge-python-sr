@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/43" AvsVersionId="8" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>PAC20260904013</MessageThreadId>
+    <MessageId>PAC20260904013</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000PACIFIC</PartyId>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-04T10:10:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <PartyList>
+    <Party>
+      <PartyReference>P1</PartyReference>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P2</PartyReference>
+      <PartyName>
+        <FullName>Ramiro Novak</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P3</PartyReference>
+      <PartyName>
+        <FullName>Static Orchard</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P4</PartyReference>
+      <PartyName>
+        <FullName>Owen Herrera</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P5</PartyReference>
+      <PartyName>
+        <FullName>Ignacio Ferreyra</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P6</PartyReference>
+      <PartyName>
+        <FullName>Sebastián Walsh</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P7</PartyReference>
+      <PartyName>
+        <FullName>Gonzalo Novak</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P8</PartyReference>
+      <PartyName>
+        <FullName>Los Cometas del Valle</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P9</PartyReference>
+      <PartyName>
+        <FullName>Los Peregrinos</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P10</PartyReference>
+      <PartyName>
+        <FullName>Sofía Carter</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P11</PartyReference>
+      <PartyName>
+        <FullName>Elena Reyes</FullName>
+      </PartyName>
+    </Party>
+  </PartyList>
+  <ResourceList>
+    <SoundRecording>
+      <ResourceReference>A1</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF021900110</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Crystal Lines</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Crystal Lines</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Ramiro Novak</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P2</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M21S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A2</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF122300111</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2023</Year>
+          <PLineText>℗ 2023 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Golden Rivers</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Golden Rivers</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Static Orchard</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M37S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A3</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF222400112</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Broken Echoes</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Broken Echoes</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Owen Herrera</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P4</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M14S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A4</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF322200113</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Sombra de Cristal</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Sombra de Cristal</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Ignacio Ferreyra</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P5</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M41S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A5</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF422500114</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2025</Year>
+          <PLineText>℗ 2025 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Broken Bridges</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Broken Bridges</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Sebastián Walsh</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P6</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M56S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A6</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF522200115</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Lluvia Lejana</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Lluvia Lejana</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Gonzalo Novak</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P7</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M52S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A7</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF621500116</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2015</Year>
+          <PLineText>℗ 2015 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Tormenta Rota</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Tormenta Rota</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Cometas del Valle</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P8</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M43S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A8</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF722200117</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Mar Rota</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Mar Rota</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Peregrinos</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P9</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M36S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A9</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF821700118</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2017</Year>
+          <PLineText>℗ 2017 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Velvet Rivers</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Velvet Rivers</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Sofía Carter</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P10</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M45S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A10</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF921900119</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Verano Eterna</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Verano Eterna</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Elena Reyes</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P11</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M50S</Duration>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseId>
+        <GRid>A10301A00000000013</GRid>
+        <ICPN>088800000013</ICPN>
+      </ReleaseId>
+      <DisplayTitleText>Pacific Vol. 13</DisplayTitleText>
+      <DisplayArtistName>Ramiro Novak</DisplayArtistName>
+      <ReleaseLabelReference>P1</ReleaseLabelReference>
+      <ResourceGroup>
+        <ResourceReference>A1</ResourceReference>
+        <ResourceReference>A2</ResourceReference>
+        <ResourceReference>A3</ResourceReference>
+        <ResourceReference>A4</ResourceReference>
+        <ResourceReference>A5</ResourceReference>
+        <ResourceReference>A6</ResourceReference>
+        <ResourceReference>A7</ResourceReference>
+        <ResourceReference>A8</ResourceReference>
+        <ResourceReference>A9</ResourceReference>
+        <ResourceReference>A10</ResourceReference>
+      </ResourceGroup>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>

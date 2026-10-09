@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/43" AvsVersionId="8" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>PAC20260903002</MessageThreadId>
+    <MessageId>PAC20260903002</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000PACIFIC</PartyId>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-03T09:10:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <PartyList>
+    <Party>
+      <PartyReference>P1</PartyReference>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P2</PartyReference>
+      <PartyName>
+        <FullName>Los Hermanos Quiroga</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P3</PartyReference>
+      <PartyName>
+        <FullName>The Lanterns</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P4</PartyReference>
+      <PartyName>
+        <FullName>林小雨</FullName>
+      </PartyName>
+    </Party>
+  </PartyList>
+  <ResourceList>
+    <SoundRecording>
+      <ResourceReference>A1</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USQG12100031</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Volver</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Volver</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Hermanos Quiroga</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P2</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M32S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A2</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USLT12200010</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Golden Coast</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Golden Coast</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>The Lanterns</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M56S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A3</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USLT12200011</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Golden Coast</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Golden Coast</TitleText>
+        <SubTitle SubTitleType="VersionTitle">Radio Edit</SubTitle>
+      </DisplayTitle>
+      <DisplayArtistName>The Lanterns</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M19S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A4</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>HKPS12400012</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>夜空中的約定</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>夜空中的約定</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>林小雨</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P4</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M22S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A5</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USPS12400777</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Track 7</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Track 7</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>The Lanterns</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M0S</Duration>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseId>
+        <GRid>A10301A00000000002</GRid>
+        <ICPN>088800000002</ICPN>
+      </ReleaseId>
+      <DisplayTitleText>Pacific Mixtape</DisplayTitleText>
+      <DisplayArtistName>Los Hermanos Quiroga</DisplayArtistName>
+      <ReleaseLabelReference>P1</ReleaseLabelReference>
+      <ResourceGroup>
+        <ResourceReference>A1</ResourceReference>
+        <ResourceReference>A2</ResourceReference>
+        <ResourceReference>A3</ResourceReference>
+        <ResourceReference>A4</ResourceReference>
+        <ResourceReference>A5</ResourceReference>
+      </ResourceGroup>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>

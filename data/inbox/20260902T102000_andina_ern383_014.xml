@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ernm:NewReleaseMessage xmlns:ernm="http://ddex.net/xml/ern/383" MessageSchemaVersionId="ern/383" LanguageAndScriptCode="es">
+  <MessageHeader>
+    <MessageThreadId>AND20260902014</MessageThreadId>
+    <MessageId>AND20260902014</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000ANDINA</PartyId>
+      <PartyName>
+        <FullName>Andina Records</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-02T10:20:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <UpdateIndicator>OriginalMessage</UpdateIndicator>
+  <ResourceList>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF011700040</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A1</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Invierno de Papel</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M52S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Invierno de Papel</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Noelia Ibáñez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2017</Year>
+          <PLineText>℗ 2017 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF111600041</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A2</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Silver Roads</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M45S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Silver Roads</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Elena Paz</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF211500042</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A3</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Lluvia de Cristal</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M29S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Lluvia de Cristal</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Ramiro Reyes</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2015</Year>
+          <PLineText>℗ 2015 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF312400043</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A4</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Paper Tides</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M18S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Paper Tides</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Gonzalo Novak</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2024</Year>
+          <PLineText>℗ 2024 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF411900044</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A5</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Luna Salvaje</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M55S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Luna Salvaje</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Ramiro Sato</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2019</Year>
+          <PLineText>℗ 2019 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF511700045</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A6</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Broken Shadows</TitleText>
+      </ReferenceTitle>
+      <Duration>PT2M33S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Broken Shadows</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Noelia Ibáñez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2017</Year>
+          <PLineText>℗ 2017 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF612300046</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A7</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Electric Hearts</TitleText>
+      </ReferenceTitle>
+      <Duration>PT3M57S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Electric Hearts</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Noah Ibáñez</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2023</Year>
+          <PLineText>℗ 2023 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF712200047</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A8</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Invierno Lejana</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M32S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Invierno Lejana</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Owen Herrera</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF812500048</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A9</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Invierno de Papel</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M52S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Invierno de Papel</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Grace Novak</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2025</Year>
+          <PLineText>℗ 2025 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+    <SoundRecording>
+      <SoundRecordingType>MusicalWorkSoundRecording</SoundRecordingType>
+      <SoundRecordingId>
+        <ISRC>ARF911800049</ISRC>
+      </SoundRecordingId>
+      <ResourceReference>A10</ResourceReference>
+      <ReferenceTitle>
+        <TitleText>Midnight Lines</TitleText>
+      </ReferenceTitle>
+      <Duration>PT4M45S</Duration>
+      <SoundRecordingDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <Title TitleType="DisplayTitle">
+          <TitleText>Midnight Lines</TitleText>
+        </Title>
+        <DisplayArtist>
+          <PartyName>
+            <FullName>Ignacio Ferreyra</FullName>
+          </PartyName>
+          <ArtistRole>MainArtist</ArtistRole>
+        </DisplayArtist>
+        <LabelName>Andina Records</LabelName>
+        <PLine>
+          <Year>2018</Year>
+          <PLineText>℗ 2018 Andina Records</PLineText>
+        </PLine>
+      </SoundRecordingDetailsByTerritory>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release IsMainRelease="true">
+      <ReleaseId>
+        <GRid>A10302B00000000014</GRid>
+        <ICPN IsEan="true">779000100014</ICPN>
+      </ReleaseId>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReferenceTitle>
+        <TitleText>Compilado Andina 14</TitleText>
+      </ReferenceTitle>
+      <ReleaseResourceReferenceList>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A1</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A2</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A3</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A4</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A5</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A6</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A7</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A8</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A9</ReleaseResourceReference>
+        <ReleaseResourceReference ReleaseResourceType="PrimaryResource">A10</ReleaseResourceReference>
+      </ReleaseResourceReferenceList>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseDetailsByTerritory>
+        <TerritoryCode>Worldwide</TerritoryCode>
+        <DisplayArtistName>Noelia Ibáñez</DisplayArtistName>
+        <LabelName>Andina Records</LabelName>
+      </ReleaseDetailsByTerritory>
+    </Release>
+  </ReleaseList>
+</ernm:NewReleaseMessage>

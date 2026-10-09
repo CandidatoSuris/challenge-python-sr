@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ern:NewReleaseMessage xmlns:ern="http://ddex.net/xml/ern/43" AvsVersionId="8" LanguageAndScriptCode="en">
+  <MessageHeader>
+    <MessageThreadId>PAC20260904012</MessageThreadId>
+    <MessageId>PAC20260904012</MessageId>
+    <MessageSender>
+      <PartyId>PADPIDA0000PACIFIC</PartyId>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </MessageSender>
+    <MessageCreatedDateTime>2026-09-04T10:00:00Z</MessageCreatedDateTime>
+    <MessageControlType>LiveMessage</MessageControlType>
+  </MessageHeader>
+  <PartyList>
+    <Party>
+      <PartyReference>P1</PartyReference>
+      <PartyName>
+        <FullName>Pacific Sound Group</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P2</PartyReference>
+      <PartyName>
+        <FullName>Ignacio Ferreyra</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P3</PartyReference>
+      <PartyName>
+        <FullName>La Brújula</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P4</PartyReference>
+      <PartyName>
+        <FullName>Sofía Molina</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P5</PartyReference>
+      <PartyName>
+        <FullName>Elena Bennett</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P6</PartyReference>
+      <PartyName>
+        <FullName>Sofía Carter</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P7</PartyReference>
+      <PartyName>
+        <FullName>Abril Moreau</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P8</PartyReference>
+      <PartyName>
+        <FullName>Los Cometas del Valle</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P9</PartyReference>
+      <PartyName>
+        <FullName>Joaquín Walsh</FullName>
+      </PartyName>
+    </Party>
+    <Party>
+      <PartyReference>P10</PartyReference>
+      <PartyName>
+        <FullName>Martín Sosa</FullName>
+      </PartyName>
+    </Party>
+  </PartyList>
+  <ResourceList>
+    <SoundRecording>
+      <ResourceReference>A1</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF022200100</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Noche de Neón</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Noche de Neón</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Ignacio Ferreyra</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P2</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M10S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A2</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF121500101</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2015</Year>
+          <PLineText>℗ 2015 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Río sin Nombre</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Río sin Nombre</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>La Brújula</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P3</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M36S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A3</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF222100102</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2021</Year>
+          <PLineText>℗ 2021 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Quiet Signals</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Quiet Signals</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Sofía Molina</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P4</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M29S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A4</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF321600103</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Midnight Hearts</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Midnight Hearts</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Elena Bennett</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P5</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M45S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A5</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF422500104</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2025</Year>
+          <PLineText>℗ 2025 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Mar de Abril</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Mar de Abril</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Sofía Carter</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P6</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M12S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A6</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF521600105</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2016</Year>
+          <PLineText>℗ 2016 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Golden Hearts</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Golden Hearts</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Abril Moreau</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P7</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M36S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A7</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF622000106</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2020</Year>
+          <PLineText>℗ 2020 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Jardín en Llamas</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Jardín en Llamas</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Los Cometas del Valle</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P8</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M49S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A8</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF722200107</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Crystal Fires</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Crystal Fires</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Joaquín Walsh</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P9</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT2M59S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A9</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF822000108</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2020</Year>
+          <PLineText>℗ 2020 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Crystal Rivers</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Crystal Rivers</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Ignacio Ferreyra</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P2</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT3M52S</Duration>
+    </SoundRecording>
+    <SoundRecording>
+      <ResourceReference>A10</ResourceReference>
+      <Type>MusicalWorkSoundRecording</Type>
+      <SoundRecordingEdition>
+        <ResourceId>
+          <ISRC>USF922200109</ISRC>
+        </ResourceId>
+        <PLine>
+          <Year>2022</Year>
+          <PLineText>℗ 2022 Pacific Sound Group</PLineText>
+        </PLine>
+      </SoundRecordingEdition>
+      <DisplayTitleText>Silver Rivers</DisplayTitleText>
+      <DisplayTitle>
+        <TitleText>Silver Rivers</TitleText>
+      </DisplayTitle>
+      <DisplayArtistName>Martín Sosa</DisplayArtistName>
+      <DisplayArtist>
+        <ArtistPartyReference>P10</ArtistPartyReference>
+        <DisplayArtistRole>MainArtist</DisplayArtistRole>
+      </DisplayArtist>
+      <Duration>PT4M37S</Duration>
+    </SoundRecording>
+  </ResourceList>
+  <ReleaseList>
+    <Release>
+      <ReleaseReference>R0</ReleaseReference>
+      <ReleaseType>Album</ReleaseType>
+      <ReleaseId>
+        <GRid>A10301A00000000012</GRid>
+        <ICPN>088800000012</ICPN>
+      </ReleaseId>
+      <DisplayTitleText>Pacific Vol. 12</DisplayTitleText>
+      <DisplayArtistName>Ignacio Ferreyra</DisplayArtistName>
+      <ReleaseLabelReference>P1</ReleaseLabelReference>
+      <ResourceGroup>
+        <ResourceReference>A1</ResourceReference>
+        <ResourceReference>A2</ResourceReference>
+        <ResourceReference>A3</ResourceReference>
+        <ResourceReference>A4</ResourceReference>
+        <ResourceReference>A5</ResourceReference>
+        <ResourceReference>A6</ResourceReference>
+        <ResourceReference>A7</ResourceReference>
+        <ResourceReference>A8</ResourceReference>
+        <ResourceReference>A9</ResourceReference>
+        <ResourceReference>A10</ResourceReference>
+      </ResourceGroup>
+    </Release>
+  </ReleaseList>
+</ern:NewReleaseMessage>
